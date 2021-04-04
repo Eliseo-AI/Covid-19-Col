@@ -22,7 +22,7 @@ In a second step, the file was updated, moving to March 24 as the starting point
 https://www.ins.gov.co/Noticias/Paginas/Coronavirus.aspx
 
   *Census 2018 (Colombia)
-https://www.dane.gov.co › files › informacion-tecnica
+https://www.dane.gov.co
 
   *Latitude and Longitude (Municipalities in Colombia)
 https://geoportal.dane.gov.co/geovisores/territorio/consulta-divipola-division-politico-administrativa-de-colombia/
