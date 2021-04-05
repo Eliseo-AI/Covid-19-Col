@@ -60,4 +60,4 @@ https://www.dane.gov.co
 https://geoportal.dane.gov.co/geovisores/territorio/consulta-divipola-division-politico-administrativa-de-colombia/
 
 ## Licensing
-The
+ Apache License Version 2.0, January 2004
