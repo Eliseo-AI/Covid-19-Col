@@ -48,7 +48,13 @@ the file is in jupiternotebook format "covid_col_24.pynb"
 
 The information of it is available at:
 
-  *
-  *
-  *
+ *Covid-19 (7th and 24th)
+https://www.ins.gov.co/Noticias/Paginas/Coronavirus.aspx
+
+  *Census 2018 (Colombia)
+https://www.dane.gov.co
+
+  *Latitude and Longitude (Municipalities in Colombia)
+https://geoportal.dane.gov.co/geovisores/territorio/consulta-divipola-division-politico-administrativa-de-colombia/
+
 
