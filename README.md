@@ -45,6 +45,7 @@ https://geoportal.dane.gov.co/geovisores/territorio/consulta-divipola-division-p
 
 ![](Images/Location%202.png)
 There are three different types of status for patients detected with the disease, however it is evident that active people are the youngest and the deceased are mostly the oldest in the population in both genders.
+
 ![](Images/Distribution%20by%20departments.png)
 - Bogotá, the capital has almost a quarter of the deceased, the next three departments have added a little more than another quarter of the deceased.
 ![](Images/Evolution.png)
@@ -53,6 +54,7 @@ There are three different types of status for patients detected with the disease
 - The ten days with the highest number of deaths are located in the second peak of deaths, the exact dates can be identified.
 ![](Images/time%20of%20diagnosis.png)
 - It is identified that the periods of time to identify a person with the disease and their death was in most cases at least one month before their death, but in many cases it is only one week, in an important group it is postmortem.
+
 ![](Images/test%20of%20PCR.png)
 - At least 100 patients who were recognized as recovered by PCR test died within a few days and have not been recognized as deceased by covid.
 
