@@ -39,10 +39,10 @@ https://geoportal.dane.gov.co/geovisores/territorio/consulta-divipola-division-p
 * Dataset from March 6, 2020 to march 24, 2021.
 * Shape (2276656, 23), Shape (2347224, 23)
 
-![](Images/Deceased%20groups.png)
+![](Images/Distribution%20Covid-19.png)
 - The population that constitutes the group of those infected by the covid-sars2 virus is distributed in eight groups, they are represented in a graph where they are differentiated by age groups and gender, the first under 18 years of age, the second from 18 years to the 24 years and later four groups of ten years each one are created until arriving at the one of majors of 80 years. the graph shows that the groups with the most of the infected people are between 25 and 54 years old, these represent three groups of the total population, also, these people are economically active and must be studying or working, the difference in the number of infected people by gender is small, but there are more men identified than women.
 
-![](Images/Distribution%20Covid-19.png)
+!![](Images/Deceased%20groups.png)
 - Most of the people who died in the analyzed period are people over 55 years of age and in all age groups it affects men in a greater number.
 
 ![](Images/Ethnic%20groups.png)
