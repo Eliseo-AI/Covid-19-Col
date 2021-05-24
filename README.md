@@ -36,7 +36,7 @@ https://geoportal.dane.gov.co/geovisores/territorio/consulta-divipola-division-p
 * Shape (2276656, 23), Shape (2347224, 23)
 
 the deceased belong to the group of those over 55 years old, while the most infected are between 25 and 54 years old.
-<img src=*"Images/Deceased%20groups.png" width="100">
+<img src="Images/Deceased%20groups.png" width="100" >
 ![](Images/Deceased%20groups.png)
 ![](Images/Distribution%20Covid-19.png)
 ![](Images/Ethnic%20groups.png)
