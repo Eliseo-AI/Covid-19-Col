@@ -3,8 +3,9 @@ Table of Content
 * [Covid 19 Colombia](#Covid-19-Col)
   * [Description](#description)
   * [Process](#process)
-  * [Files](#files)
-  * [Results](#results)
+   * [Research Question](#Research-Question)
+   * [Hyphotesys](#Hyphotesys)
+   * [Results](#results)
   * [Installation guide](#installation-guide)
   * [Credits](#credits)
   * [Licensing](#licensing)
@@ -17,9 +18,6 @@ The first step was to explore the data set of covid-19 March 7, it is identified
 
 In a second step, the file was updated, moving to March 24 as the starting point, 2021, they include data such as: age, gender, department, municipality, patient's status, date of diagnosis, date of symptoms , recovery date, and other information per patient, there is no name or identification number of the patients.
 
-## Process
-
-
 ## Files
   *Covid-19 (7th and 24th)
 https://www.ins.gov.co/Noticias/Paginas/Coronavirus.aspx
@@ -30,7 +28,13 @@ https://www.dane.gov.co
   *Latitude and Longitude (Municipalities in Colombia)
 https://geoportal.dane.gov.co/geovisores/territorio/consulta-divipola-division-politico-administrativa-de-colombia/
 
-## Results
+## Process
+
+### Research Question
+
+### Hyphotesys
+
+### Results
 * Dataset from March 6,2020 to march 7, 2021.
 * Dataset from March 6, 2020 to march 24, 2021.
 * Shape (2276656, 23), Shape (2347224, 23)
