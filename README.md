@@ -36,23 +36,23 @@ https://geoportal.dane.gov.co/geovisores/territorio/consulta-divipola-division-p
 * Shape (2276656, 23), Shape (2347224, 23)
 
 ![](Images/Deceased%20groups.png)
-Most of the infected people are between 25 and 54 years old, these people are economically active and must be studying or working, the difference in the number of infected people by gender is small, but there are more men identified than women.
+- Most of the infected people are between 25 and 54 years old, these people are economically active and must be studying or working, the difference in the number of infected people by gender is small, but there are more men identified than women.
 ![](Images/Distribution%20Covid-19.png)
-Most of the people who died in the analyzed period are people over 55 years of age and in all age groups it affects men in a greater number.
+- Most of the people who died in the analyzed period are people over 55 years of age and in all age groups it affects men in a greater number.
 ![](Images/Ethnic%20groups.png)
 
 ![](Images/Location%202.png)
 
 ![](Images/Distribution%20by%20departments.png)
-Bogotá, the capital has almost a quarter of the deceased, the next three departments have added a little more than another quarter of the deceased.
+- Bogotá, the capital has almost a quarter of the deceased, the next three departments have added a little more than another quarter of the deceased.
 ![](Images/Evolution.png)
-During the period of the pandemic analyzed, two peaks of cases are identified, the second peak has a greater number of deaths.
+- During the period of the pandemic analyzed, two peaks of cases are identified, the second peak has a greater number of deaths.
 ![](Images/top%20days.png)
-The ten days with the highest number of deaths are located in the second peak of deaths, the exact dates can be identified.
+- The ten days with the highest number of deaths are located in the second peak of deaths, the exact dates can be identified.
 ![](Images/time%20of%20diagnosis.png)
-It is identified that the periods of time to identify a person with the disease and their death was in most cases at least one month before their death, but in many cases it is only one week, in an important group it is postmortem.
+- It is identified that the periods of time to identify a person with the disease and their death was in most cases at least one month before their death, but in many cases it is only one week, in an important group it is postmortem.
 ![](Images/test%20of%20PCR.png)
-At least 100 patients who were recognized as recovered by PCR test died within a few days and have not been recognized as deceased by covid.
+- At least 100 patients who were recognized as recovered by PCR test died within a few days and have not been recognized as deceased by covid.
 
 ## Installation guide
 
