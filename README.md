@@ -3,6 +3,7 @@ Table of Content
 * [Covid 19 Colombia](#Covid-19-Col)
   * [Description](#description)
   * [Process](#process)
+  * [Files](#files)
   * [Results](#results)
   * [Installation guide](#installation-guide)
   * [Credits](#credits)
@@ -18,6 +19,8 @@ In a second step, the file was updated, moving to March 24 as the starting point
 
 ## Process
 
+
+## Files
   *Covid-19 (7th and 24th)
 https://www.ins.gov.co/Noticias/Paginas/Coronavirus.aspx
 
