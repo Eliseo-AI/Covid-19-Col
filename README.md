@@ -37,6 +37,7 @@ https://geoportal.dane.gov.co/geovisores/territorio/consulta-divipola-division-p
 
 ![](Images/Deceased%20groups.png)
 - Most of the infected people are between 25 and 54 years old, these people are economically active and must be studying or working, the difference in the number of infected people by gender is small, but there are more men identified than women.
+
 ![](Images/Distribution%20Covid-19.png)
 - Most of the people who died in the analyzed period are people over 55 years of age and in all age groups it affects men in a greater number.
 
@@ -44,14 +45,17 @@ https://geoportal.dane.gov.co/geovisores/territorio/consulta-divipola-division-p
 - There are five identified ethnic groups, but there is no significant difference that the disease has a difference in the age group of people who are infected.
 
 ![](Images/Location%202.png)
-There are three different types of status for patients detected with the disease, however it is evident that active people are the youngest and the deceased are mostly the oldest in the population in both genders.
+- There are three different types of status for patients detected with the disease, however it is evident that active people are the youngest and the deceased are mostly the oldest in the population in both genders.
 
 ![](Images/Distribution%20by%20departments.png)
 - Bogotá, the capital has almost a quarter of the deceased, the next three departments have added a little more than another quarter of the deceased.
+
 ![](Images/Evolution.png)
 - During the period of the pandemic analyzed, two peaks of cases are identified, the second peak has a greater number of deaths.
+
 ![](Images/top%20days.png)
 - The ten days with the highest number of deaths are located in the second peak of deaths, the exact dates can be identified.
+
 ![](Images/time%20of%20diagnosis.png)
 - It is identified that the periods of time to identify a person with the disease and their death was in most cases at least one month before their death, but in many cases it is only one week, in an important group it is postmortem.
 
