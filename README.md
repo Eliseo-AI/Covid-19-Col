@@ -40,7 +40,7 @@ https://geoportal.dane.gov.co/geovisores/territorio/consulta-divipola-division-p
 ![](Images/Distribution%20Covid-19.png)
 - Most of the people who died in the analyzed period are people over 55 years of age and in all age groups it affects men in a greater number.
 ![](Images/Ethnic%20groups.png)
-
+- There are five identified ethnic groups, but there is no significant difference that the disease has a difference in the age group of people who are infected.
 ![](Images/Location%202.png)
 
 ![](Images/Distribution%20by%20departments.png)
