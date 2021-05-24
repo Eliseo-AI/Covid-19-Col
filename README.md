@@ -35,6 +35,14 @@ https://geoportal.dane.gov.co/geovisores/territorio/consulta-divipola-division-p
 the deceased belong to the group of those over 55 years old, while the most infected are between 25 and 54 years old.
 
 ![](Images/Deceased%20groups.png)
+![](Images/Distribution%20Covid-19.png)
+![](Images/Ethnic%20groups.png)
+![](Images/Location%202.png)
+![](Images/Distribution%20by%20departments.png)
+![](Images/top%20days.png)
+![](Images/Evolution.png)
+![](Images/time%20of%20diagnosis.png)
+![](Images/test%20of%20PCR.png)
 
 ## Installation guide
 
