@@ -39,10 +39,12 @@ https://geoportal.dane.gov.co/geovisores/territorio/consulta-divipola-division-p
 - Most of the infected people are between 25 and 54 years old, these people are economically active and must be studying or working, the difference in the number of infected people by gender is small, but there are more men identified than women.
 ![](Images/Distribution%20Covid-19.png)
 - Most of the people who died in the analyzed period are people over 55 years of age and in all age groups it affects men in a greater number.
+
 ![](Images/Ethnic%20groups.png)
 - There are five identified ethnic groups, but there is no significant difference that the disease has a difference in the age group of people who are infected.
-![](Images/Location%202.png)
 
+![](Images/Location%202.png)
+There are three different types of status for patients detected with the disease, however it is evident that active people are the youngest and the deceased are mostly the oldest in the population in both genders.
 ![](Images/Distribution%20by%20departments.png)
 - Bogotá, the capital has almost a quarter of the deceased, the next three departments have added a little more than another quarter of the deceased.
 ![](Images/Evolution.png)
