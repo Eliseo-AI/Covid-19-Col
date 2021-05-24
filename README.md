@@ -30,11 +30,11 @@ https://geoportal.dane.gov.co/geovisores/territorio/consulta-divipola-division-p
 
 ## Process
 
-### Research Question
+## Research Question
 
-### Hyphotesys
+## Hyphotesys
 
-### Results
+## Results
 * Dataset from March 6,2020 to march 7, 2021.
 * Dataset from March 6, 2020 to march 24, 2021.
 * Shape (2276656, 23), Shape (2347224, 23)
