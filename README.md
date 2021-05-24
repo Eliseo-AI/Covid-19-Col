@@ -28,6 +28,11 @@ https://www.dane.gov.co
 https://geoportal.dane.gov.co/geovisores/territorio/consulta-divipola-division-politico-administrativa-de-colombia/
 
 ## Results
+Date: dataset from March 6,2020 to march 7, 2021.
+dataset from March 6, 2020 to march 24, 2021.
+Shape (2276656, 23), Shape (2347224, 23)
+
+the deceased belong to the group of those over 55 years old, while the most infected are between 25 and 54 years old.
 
 
 ## Installation guide
