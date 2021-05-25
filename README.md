@@ -53,7 +53,7 @@ https://geoportal.dane.gov.co/geovisores/territorio/consulta-divipola-division-p
 - There are three different types of status for patients detected with the disease, however it is evident that active people are the youngest and the deceased are mostly the oldest in the population in both genders.
 
 ![](Images/Distribution%20by%20departments.png)
-- Bogotá, the capital has almost a quarter of the deceased, the next three departments have added a little more than another quarter of the deceased.
+- Colombia is administratively organized into 32 departments and the capital district (Bogotá), the capital has almost a quarter of the deceased, the next three departments have added a little more than another quarter of the deceased. Although the most advanced regions of the country are: Bogotá, Antioquia, Valle del Cauca and Atlantico, also the three regions are those with the largest population in that order. In the particular case of Atlantico, it has Barranquilla, which is the fourth most populated city and has a strong economic presence abroad as it is a port city.
 
 ![](Images/Evolution.png)
 - During the period of the pandemic analyzed, two peaks of cases are identified, the second peak has a greater number of deaths.
