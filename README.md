@@ -62,10 +62,11 @@ https://geoportal.dane.gov.co/geovisores/territorio/consulta-divipola-division-p
 - The ten days with the highest number of deaths are located in the second peak of deaths, the exact dates can be identified.
 
 ![](Images/time%20of%20diagnosis.png)
-- It is identified that the periods of time to identify a person with the disease and their death was in most cases at least one month before their death, but in many cases it is only one week, in an important group it is postmortem.
+- It is identified that the periods of time to identify a person with the disease and their death was in most cases at least one month before their death, but in many cases it is only one week, in an important group it is postmortem. This graph shows that nearly 15,000 deaths are from post-mortem examinations, which indicates that important work is being done to find cases associated with covid-19.
 
 ![](Images/test%20of%20PCR.png)
-- This is the result of analyzing the cases of recovered people who underwent a PCR test, but who later died without being recognized at the time of the analysis as deceased by Covid-19. But, at least 100 patients who were recognized as recovered by PCR test died within a month or just few days, These may be due to administrative errors, lack of information on the causes that caused death or not having performed the autopsy in the required time, in any case it is an alert to improve the public report of the causes of death..
+- This is the result of analyzing the cases of recovered people who underwent a PCR test, but who later died without being recognized at the time of the analysis as deceased by Covid-19. But, at least 100 patients who were recognized as recovered by PCR test died within a month or just few days, These may be due to administrative errors, lack of information on the causes that caused death or not having performed the autopsy in the required time, in any case it is an alert to improve the public report of the causes of death.
+- Now, it could be thought that it is a contradiction with the previous graph, it is not the case because in this only the cases of the recovered people and with a PCR test are analyzed..
 
 ## Installation guide
 
