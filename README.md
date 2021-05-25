@@ -65,7 +65,7 @@ https://geoportal.dane.gov.co/geovisores/territorio/consulta-divipola-division-p
 - It is identified that the periods of time to identify a person with the disease and their death was in most cases at least one month before their death, but in many cases it is only one week, in an important group it is postmortem.
 
 ![](Images/test%20of%20PCR.png)
-- At least 100 patients who were recognized as recovered by PCR test died within a few days and have not been recognized as deceased by covid.
+- This is the result of analyzing the cases of recovered people who underwent a PCR test, but who later died without being recognized at the time of the analysis as deceased by Covid-19. But, at least 100 patients who were recognized as recovered by PCR test died within a month or just few days, These may be due to administrative errors, lack of information on the causes that caused death or not having performed the autopsy in the required time, in any case it is an alert to improve the public report of the causes of death..
 
 ## Installation guide
 
