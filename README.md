@@ -18,7 +18,7 @@ The first step was to explore the data set of covid-19 March 7, it is identified
 In a second step, the file was updated, moving to March 24 as the starting point, 2021, they include data such as: age, gender, department, municipality, patient's status, date of diagnosis, date of symptoms , recovery date, and other information per patient, there is no name or identification number of the patients.
 
 ## Files
-For this project, three downloaded files were used in the directions given above, the first one must be downloaded directly from the page described above, in addition, both the page and the file are in Spanish.
+For this project, three downloaded files were used in the directions given under, the first one must be downloaded directly from the page described above, in addition, both the page and the file are in Spanish.
 
   *Covid-19 (7th and 24th)
 https://www.ins.gov.co/Noticias/Paginas/Coronavirus.aspx
