@@ -33,29 +33,29 @@ https://geoportal.dane.gov.co/geovisores/territorio/consulta-divipola-division-p
 * Shape (2276656, 23), Shape (2347224, 23)
 * The file size is very large for the storage capacity of this platform.
 
-'fecha reporte web' = Report date Web 
-'ID de caso' = Case ID 
-'Fecha de notificación' = Notification date
-'Código DIVIPOLA departamento'= Department Code 
-'Nombre departamento' = Department name
-'Código DIVIPOLA municipio' = Municipality code 
-'Nombre municipio' = Municipality name
-'Edad' = age
-'Unidad de medida de edad' = 1 years 
-'Sexo'= gender
-'Tipo de contagio' = Type of contagion
-'Ubicación del caso'= location of the case 
-'Estado' = status 
-'Código ISO del país' = Code of Country
-'Nombre del país'= Name of Country
-'Recuperado' = Recovery
-'Fecha de inicio de síntomas' = symptom onset date
-'Fecha de muerte'= Date of death
-'Fecha de diagnóstico' = Date of Diagnosis
-'Fecha de recuperación' = Date of recovery
-'Tipo de recuperación' = Type of recovery
-'Pertenencia étnica' = Etnicity
-'Nombre del grupo étnico' = Ethnic group
+-'fecha reporte web' = Report date Web 
+-'ID de caso' = Case ID 
+-'Fecha de notificación' = Notification date
+-'Código DIVIPOLA departamento'= Department Code 
+-'Nombre departamento' = Department name
+-'Código DIVIPOLA municipio' = Municipality code 
+-'Nombre municipio' = Municipality name
+-'Edad' = age
+-'Unidad de medida de edad' = 1 years 
+-'Sexo'= gender
+-'Tipo de contagio' = Type of contagion
+-'Ubicación del caso'= location of the case 
+-'Estado' = status 
+-'Código ISO del país' = Code of Country
+-'Nombre del país'= Name of Country
+-'Recuperado' = Recovery
+-'Fecha de inicio de síntomas' = symptom onset date
+-'Fecha de muerte'= Date of death
+-'Fecha de diagnóstico' = Date of Diagnosis
+-'Fecha de recuperación' = Date of recovery
+-'Tipo de recuperación' = Type of recovery
+-'Pertenencia étnica' = Etnicity
+-'Nombre del grupo étnico' = Ethnic group
 
 ## Results
 
