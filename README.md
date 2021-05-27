@@ -41,12 +41,12 @@ https://geoportal.dane.gov.co/geovisores/territorio/consulta-divipola-division-p
 * 'ID de caso' = Case ID 
 * 'Fecha de notificación' = Notification date
 * 'Código DIVIPOLA departamento'= Department Code 
-* 'Nombre departamento' = Department name
+* 'Nombre departamento' = Department name, Colombia has 32 Departments
 * 'Código DIVIPOLA municipio' = Municipality code 
-* 'Nombre municipio' = Municipality name
-* 'Edad' = age
+* 'Nombre municipio' = Municipality name, Colombia has 1103 Municipalities
+* 'Edad' = age in years
 * 'Unidad de medida de edad' = 1 years 
-* 'Sexo'= gender
+* 'Sexo'= gender, female and male
 * 'Tipo de contagio' = Type of contagion
 * 'Ubicación del caso'= location of the case 
 * 'Estado' = status 
@@ -60,6 +60,20 @@ https://geoportal.dane.gov.co/geovisores/territorio/consulta-divipola-division-p
 * 'Tipo de recuperación' = Type of recovery
 * 'Pertenencia étnica' = Ethnicity, each ethnicity is identifiied by a number Amerindian = 1, Romani = 2, Raizal = 3, Palanquero = 4, Afrocolombian = 5, white/Mestizo = 6 
 * 'Nombre del grupo étnico' = Ethnic group name
+
+the second file has the 2018 census population
+Shape (1103, 11)
+
+* 'Code Department' = unique Code of Department
+* 'Code Municipality' = unique Code of municipality
+* 'Department' = Name of the Department
+* 'Municipality' = Name of the municipality
+* 'Longitude' = longitude of the municipality
+* 'Latitude' = latitude of the municipality
+* 'TOTAL' = Total population in the municipality 
+* 'Urban Area' = Total population in Urban area
+* 'Rural Area' = Total population in rural area
+
 
 ## Results
 
