@@ -18,8 +18,12 @@ The first step was to explore the data set of covid-19 March 7, it is identified
 In a second step, the file was updated, moving to March 24 as the starting point, 2021, they include data such as: age, gender, department, municipality, patient's status, date of diagnosis, date of symptoms , recovery date, and other information per patient, there is no name or identification number of the patients.
 
 ## Files
+For this project, three downloaded files were used in the directions given above, the first one must be downloaded directly from the page described above, in addition, both the page and the file are in Spanish.
+
   *Covid-19 (7th and 24th)
 https://www.ins.gov.co/Noticias/Paginas/Coronavirus.aspx
+
+The other two files can be downloaded from the pages but it works to create a single file with the latitudes and longitudes of each of the country's municipalities, creating the file "Col_Latitude_Longitude.csv"
 
   *Census 2018 (Colombia)
 https://www.dane.gov.co
@@ -48,14 +52,14 @@ https://geoportal.dane.gov.co/geovisores/territorio/consulta-divipola-division-p
 * 'Estado' = status 
 * 'Código ISO del país' = Code of Country
 * 'Nombre del país'= Name of Country
-* 'Recuperado' = Recovery
+* 'Recuperado' = Recovery, it has three possibilities Active, recovery or deceased
 * 'Fecha de inicio de síntomas' = symptom onset date
-* 'Fecha de muerte'= Date of death
+* 'Fecha de muerte'= Death date
 * 'Fecha de diagnóstico' = Date of Diagnosis
 * 'Fecha de recuperación' = Date of recovery
 * 'Tipo de recuperación' = Type of recovery
-* 'Pertenencia étnica' = Etnicity
-* 'Nombre del grupo étnico' = Ethnic group
+* 'Pertenencia étnica' = Ethnicity, each ethnicity is identifiied by a number Amerindian = 1, Romani = 2, Raizal = 3, Palanquero = 4, Afrocolombian = 5, white/Mestizo = 6 
+* 'Nombre del grupo étnico' = Ethnic group name
 
 ## Results
 
