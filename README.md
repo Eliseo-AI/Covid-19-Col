@@ -4,7 +4,7 @@ Table of Content
 ================
   * [Description](#description)
   * [Files](#files)
-  * [Process](#process)
+  * [Dataset](#dataset)
   * [Results](#results)
   * [Installation guide](#installation-guide)
   * [Credits](#credits)
@@ -27,13 +27,37 @@ https://www.dane.gov.co
   *Latitude and Longitude (Municipalities in Colombia)
 https://geoportal.dane.gov.co/geovisores/territorio/consulta-divipola-division-politico-administrativa-de-colombia/
 
-## Process
-
-
-## Results
+## Dataset
 * Dataset from March 6,2020 to march 7, 2021.
 * Dataset from March 6, 2020 to march 24, 2021.
 * Shape (2276656, 23), Shape (2347224, 23)
+* The file size is very large for the storage capacity of this platform.
+
+'fecha reporte web' = Report date Web 
+'ID de caso' = Case ID 
+'Fecha de notificación' = Notification date
+'Código DIVIPOLA departamento'= Department Code 
+'Nombre departamento' = Department name
+'Código DIVIPOLA municipio' = Municipality code 
+'Nombre municipio' = Municipality name
+'Edad' = age
+'Unidad de medida de edad' = 1 years 
+'Sexo'= gender
+'Tipo de contagio' = Type of contagion
+'Ubicación del caso'= location of the case 
+'Estado' = status 
+'Código ISO del país' = Code of Country
+'Nombre del país'= Name of Country
+'Recuperado' = Recovery
+'Fecha de inicio de síntomas' = symptom onset date
+'Fecha de muerte'= Date of death
+'Fecha de diagnóstico' = Date of Diagnosis
+'Fecha de recuperación' = Date of recovery
+'Tipo de recuperación' = Type of recovery
+'Pertenencia étnica' = Etnicity
+'Nombre del grupo étnico' = Ethnic group
+
+## Results
 
 ![](Images/Distribution%20Covid-19.png)
 - The population that constitutes the group of those infected by the covid-sars2 virus is distributed in eight groups, they are represented in a graph where they are differentiated by age groups and gender, the first under 18 years of age, the second from 18 years to the 24 years and later four groups of ten years each one are created until arriving at the one of majors of 80 years. the graph shows that the groups with the most of the infected people are between 25 and 54 years old, these represent three groups of the total population, also, these people are economically active and must be studying or working, the difference in the number of infected people by gender is small, but there are more men identified than women.
