@@ -11,7 +11,7 @@ Table of Content
   * [Licensing](#licensing)
   
 ## Description
-This is a project developed at the CRI Université de Paris in the second semester of the Master of Digital Science, within the "Challenge Hub" program.
+This is a project developed at the [CRI](https://cri-paris.org/en) Université de Paris in the second semester of the Master of Digital Science, within the [Challenge Hub](https://master.cri-paris.org/en/challenge-hub) program.
 To carry out the analysis process, the data set for March 7, 2021 was started, in addition to a file of the 2018 census in Colombia and the latitude and longitude coordinates of all the municipalities of Colombia.
 The first step was to explore the data set of covid-19 March 7, it is identified that the file has a significant number of rows and columns, so the quality of the data must be verified.
 
