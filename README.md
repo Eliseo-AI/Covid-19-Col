@@ -1,19 +1,16 @@
+Covid 19 Colombia
+================
 Table of Content
 ================
-* [Covid 19 Colombia](#Covid-19-Col)
   * [Description](#description)
+  * [Files](#files)
   * [Process](#process)
-   * [Files](#files)
-   * [Research Question](#Research-Question)
-   * [Hyphotesys](#Hyphotesys)
-   * [Results](#results)
+  * [Results](#results)
   * [Installation guide](#installation-guide)
   * [Credits](#credits)
   * [Licensing](#licensing)
   
-# Covid-19-Col
 ## Description
-
 To carry out the analysis process, the data set for March 7, 2021 was started, in addition to a file of the 2018 census in Colombia and the latitude and longitude coordinates of all the municipalities of Colombia.
 The first step was to explore the data set of covid-19 March 7, it is identified that the file has a significant number of rows and columns, so the quality of the data must be verified.
 
@@ -31,9 +28,6 @@ https://geoportal.dane.gov.co/geovisores/territorio/consulta-divipola-division-p
 
 ## Process
 
-## Research Question
-
-## Hyphotesys
 
 ## Results
 * Dataset from March 6,2020 to march 7, 2021.
