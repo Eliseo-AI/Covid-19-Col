@@ -3,10 +3,11 @@ Covid 19 Colombia
 Table of Content
 ================
   * [Description](#description)
+  * [Installation guide](#installation-guide)
   * [Files](#files)
   * [Dataset](#dataset)
   * [Results](#results)
-  * [Installation guide](#installation-guide)
+  * [Discussion](#discussion)
   * [Credits](#credits)
   * [Licensing](#licensing)
   
@@ -17,6 +18,19 @@ The first step was to explore the data set of covid-19 March 7, it is identified
 
 In a second step, the file was updated, moving to March 24 as the starting point, 2021, they include data such as: age, gender, department, municipality, patient's status, date of diagnosis, date of symptoms , recovery date, and other information per patient, there is no name or identification number of the patients.
 
+## Installation guide
+If you use conda, you can install: 
+
+   * conda install pandas
+   * conda install seaborn
+   * conda install numpy
+
+If you use pip, you can install: 
+
+   * pip install pandas
+   * pip install seaborn
+   * pip install numpy
+   
 ## Files
 For this project, three downloaded files were used in the directions given under, the first one must be downloaded directly from the page described above, in addition, both the page and the file are in Spanish.
 
@@ -102,21 +116,8 @@ Shape (1103, 11)
 
 ![](Images/test%20of%20PCR.png)
 - This is the result of analyzing the cases of recovered people who underwent a PCR test, but who later died without being recognized at the time of the analysis as deceased by Covid-19. But, at least 100 patients who were recognized as recovered by PCR test died within a month or just few days, These may be due to administrative errors, lack of information on the causes that caused death or not having performed the autopsy in the required time, in any case it is an alert to improve the public report of the causes of death.
-- Now, it could be thought that it is a contradiction with the previous graph, it is not the case because in this only the cases of the recovered people and with a PCR test are analyzed..
+- Now, it could be thought that it is a contradiction with the previous graph, it is not the case because in this only the cases of the recovered people and with a PCR test are analyzed.
 
-## Installation guide
-
-If you use conda, you can install: 
-
-   * conda install pandas
-   * conda install seaborn
-   * conda install numpy
-
-If you use pip, you can install: 
-
-   * pip install pandas
-   * pip install seaborn
-   * pip install numpy
     
 ## Credits
 The analysis of the dataset was carried out by Eliseo B.
