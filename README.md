@@ -76,6 +76,8 @@ Shape (1103, 11)
 
 ## Results
 
+![](Images/comparative_gender.png)
+![](Images/location_gender.png)
 ![](Images/distribution.png)
 - The population that constitutes the group of those infected by the covid-sars2 virus is distributed in eight groups, they are represented in a graph where they are differentiated by age groups, the first under 18 years of age, the second from 18 years to the 24 years and later four groups of ten years each one are created until arriving at the one of majors of 80 years. the graph shows that the groups with the most of the infected people are between 25 and 54 years old, these represent three groups of the total population, also, these people are economically active and must be studying or working, the difference in the number of infected people by gender is small, but there are more men identified than women.
 
