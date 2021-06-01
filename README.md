@@ -82,8 +82,11 @@ Shape (1103, 11)
 ![](Images/deceased_pop.png)
 - The graph shows the same eight age groups as the previous graph, where the age range of population with the most deaths due to the pandemic are the people were over 55 years of age. However, the difference is more notable in the group between 65 and 74 years of age, where the number of deceased patient is the larger.
 
+<img src="Images/comparative_gender.png" width="100"/>
 ![](Images/comparative_gender.png)
 - There are five identified ethnic groups, but there is no significant difference that the disease has a difference in the age group of people who are infected.
+
+<img src="Images/location_gender.png" width="200" />
 
 ![](Images/location_gender.png)
 - There are three different types of status for patients detected with the disease, however it is evident that active people are the youngest and the deceased are mostly the oldest in the population in both genders.
