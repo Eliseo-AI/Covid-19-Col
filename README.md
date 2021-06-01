@@ -76,13 +76,11 @@ Shape (1103, 11)
 
 ## Results
 
-![](Images/deceased_pop.png)
-
 ![](Images/distribution.png)
 - The population that constitutes the group of those infected by the covid-sars2 virus is distributed in eight groups, they are represented in a graph where they are differentiated by age groups, the first under 18 years of age, the second from 18 years to the 24 years and later four groups of ten years each one are created until arriving at the one of majors of 80 years. the graph shows that the groups with the most of the infected people are between 25 and 54 years old, these represent three groups of the total population, also, these people are economically active and must be studying or working, the difference in the number of infected people by gender is small, but there are more men identified than women.
 
-!![](Images/Deceased%20groups.png)
-- The graph shows the same eight age groups as the previous graph, where the age range of population with the most deaths due to the pandemic are the people were over 55 years of age and in all age groups it affects men in a greater number. However, the difference is more notable in the group between 65 and 74 years of age, where deceased men outnumber deceased women by about 400.
+![](Images/deceased_pop.png)
+- The graph shows the same eight age groups as the previous graph, where the age range of population with the most deaths due to the pandemic are the people were over 55 years of age. However, the difference is more notable in the group between 65 and 74 years of age, where the number of deceased patient is the larger.
 
 ![](Images/Ethnic%20groups.png)
 - There are five identified ethnic groups, but there is no significant difference that the disease has a difference in the age group of people who are infected.
