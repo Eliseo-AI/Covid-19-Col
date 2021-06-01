@@ -117,8 +117,10 @@ Shape (1103, 11)
 ![](Images/test%20of%20PCR.png)
 - This is the result of analyzing the cases of recovered people who underwent a PCR test, but who later died without being recognized at the time of the analysis as deceased by Covid-19. But, at least 100 patients who were recognized as recovered by PCR test died within a month or just few days, These may be due to administrative errors, lack of information on the causes that caused death or not having performed the autopsy in the required time, in any case it is an alert to improve the public report of the causes of death.
 - Now, it could be thought that it is a contradiction with the previous graph, it is not the case because in this only the cases of the recovered people and with a PCR test are analyzed.
+## Discussion
+The pandemic has affected the entire country, more detailed information on rural areas should be included, we talk about municipalities without differentiating their urban and rural areas.
+The reports of infected and deceased are timely, the report could be updated with the figures as of May cut to have an updated analysis.
 
-    
 ## Credits
 The analysis of the dataset was carried out by Eliseo B.
 the file is in jupiternotebook format "covid_col_24.pynb"
