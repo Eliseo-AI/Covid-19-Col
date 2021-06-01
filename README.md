@@ -77,7 +77,7 @@ Shape (1103, 11)
 ## Results
 ![](Images/distribution.png)
 ![](Images/deceased_pop.png)
-![](Images/deceased_dep.png)
+
 ![](Images/Distribution%20Covid-19.png)
 - The population that constitutes the group of those infected by the covid-sars2 virus is distributed in eight groups, they are represented in a graph where they are differentiated by age groups and gender, the first under 18 years of age, the second from 18 years to the 24 years and later four groups of ten years each one are created until arriving at the one of majors of 80 years. the graph shows that the groups with the most of the infected people are between 25 and 54 years old, these represent three groups of the total population, also, these people are economically active and must be studying or working, the difference in the number of infected people by gender is small, but there are more men identified than women.
 
@@ -90,7 +90,7 @@ Shape (1103, 11)
 ![](Images/Location%202.png)
 - There are three different types of status for patients detected with the disease, however it is evident that active people are the youngest and the deceased are mostly the oldest in the population in both genders.
 
-![](Images/Distribution%20by%20departments.png)
+![](Images/deceased_dep.png)
 - Colombia is administratively organized into 32 departments and the capital district (Bogotá), the capital has almost a quarter of the deceased, the next three departments have added a little more than another quarter of the deceased. Although the most advanced regions of the country are: Bogotá, Antioquia, Valle del Cauca and Atlantico, also the three regions are those with the largest population in that order. In the particular case of Atlantico, it has Barranquilla, which is the fourth most populated city and has a strong economic presence abroad as it is a port city.
 
 ![](Images/Evolution.png)
