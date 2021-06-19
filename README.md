@@ -33,7 +33,8 @@ If you use pip, you can install:
 For this project, three downloaded files were used in the directions given under, the first one must be downloaded directly from the page described above, in addition, both the page and the file are in Spanish.
 
   *Covid-19 (7th and 24th)
-https://www.ins.gov.co/Noticias/Paginas/Coronavirus.aspx
+
+https://www.ins.gov.co/Paginas/Boletines-casos-COVID-19-Colombia.aspx
 
 The other two files can be downloaded from the pages but it works to create a single file with the latitudes and longitudes of each of the country's municipalities, creating the file "Col_Latitude_Longitude.csv"
 
